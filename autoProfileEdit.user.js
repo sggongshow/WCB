@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Auto Profile Changer - Worksafe
-// @namespace   GongOscar
-// @description Worksafe
+// @namespace   GongWcb
+// @description Worksafe profile position change auto 
 // @include     *oscar.com/oscar/index.jsp*
 // @require http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js
 // @version 15.2
